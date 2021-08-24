@@ -1,0 +1,59 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  
+}
+
+a {
+  color: #7C83FD;
+  font-family: 'Kaisei Opti', serif;
+  font-size: large;
+}
+
+.delete-skill{
+  color: #fff;
+  border: 2px solid rgb(216, 2, 134);
+  border-radius: 2px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #162944;
+  font-family: 'Kaisei Opti', serif;
+  font-size: large;
+
+}
+
+.delete-skill:hover{
+  color: #C9CCD5;
+}
+
+.save-skill{
+  color: #fff;
+  border: 2px solid rgb(216, 2, 134);
+  border-radius: 2px;
+  padding: 3px;
+  display: inline-block;
+  background-color: #162944;
+  font-family: 'Kaisei Opti', serif;
+  font-size: medium;
+}
+
+.save-skill:hover{
+  color: #C9CCD5;
+}
+
+.edit-skill{
+  color: #fff;
+  border: 2px solid rgb(216, 2, 134);
+  border-radius: 2px;
+  padding: 3px;
+  display: inline-block;
+  background-color: #162944;
+  font-family: 'Kaisei Opti', serif;
+  font-size: medium;
+}
+
+.edit-skill{
+  color: #C9CCD5;
+}
+
+ 
